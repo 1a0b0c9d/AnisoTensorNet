@@ -1,0 +1,27 @@
+# Ignore cache / checkpoints / temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.log
+*.csv
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.pth
+*.pt
+*.ckpt
+*.jsonl
+*.npy
+*.npz
+*.pkl
+*.tmp
+.DS_Store
+logs/
+checkpoints/
+outputs/
+runs/
+data/
+.env

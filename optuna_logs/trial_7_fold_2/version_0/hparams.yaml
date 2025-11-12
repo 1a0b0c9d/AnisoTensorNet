@@ -1,0 +1,13 @@
+additional_losses: null
+aniso_reg_cs: !!python/tuple
+- 6
+aniso_reg_weight: 0.07741607526596624
+batch_size: 12
+callbacks: null
+log_beta: 0.12418173450618125
+loss_fn: null
+lr: 0.0008827874344871871
+monitor: val_loss
+num_workers: 0
+use_deepspeed_cpu_adam: false
+weight_decay: 0.04680053710804366
